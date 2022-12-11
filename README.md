@@ -1,2 +1,32 @@
-# lazy_cd
-Towards practical change detection, including annotation, algorithms and deployment.
+# LazyCD
+
+> 努力实现变化检测的流程全闭环，包括**数据侧**、**算法侧**和**部署侧**。
+
+## 数据
+
+数据侧是整个流程的核心，主要定义了各模块之间流通的数据标准，实现了数据标注核心功能。
+
+详细请参考 `[xxx](shinianzhihou/xxx)`
+
+
+## 算法
+
+算法侧是整个流程的重点，面向各种实际需求，实现了目标级和像素级的变化检测能力。
+
+详细请参考 `[xxx](shinianzhihou/xxx)` (目标级) 和 `[xxx](shinianzhihou/xxx)` (像素级)。
+
+
+## 部署
+
+现阶段大多数变化检测模型不涉及部署，但是为了保证数据回流辅助形成闭环，需要保证模型的部署能力。
+
+
+## 示例
+
+
+如何从一些图像中获得你的变化检测模型？
+
+详情请参考 `[xxx](shinianzhihou/xxx)`
+
+
+
