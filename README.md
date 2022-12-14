@@ -6,7 +6,7 @@
 
 数据侧是整个流程的核心，主要定义了各模块之间流通的数据标准，实现了数据标注核心功能。
 
-详细请参考 [xxx](shinianzhihou/xxx)
+详细请参考 [labelme_cd](https://github.com/shinianzhihou/labelme_cd)
 
 
 ## 算法
